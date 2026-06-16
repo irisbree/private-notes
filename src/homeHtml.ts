@@ -7,7 +7,7 @@ export const blogHomeHtml = `<!doctype html>
     <meta name="theme-color" content="#07c160" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="default" />
-    <meta name="apple-mobile-web-app-title" content="我的笔记" />
+    <meta name="apple-mobile-web-app-title" content="蜗牛的加密笔记" />
     <meta name="description" content="一个部署在 Cloudflare Workers 上的简洁私人笔记。" />
     <link rel="manifest" href="/manifest.webmanifest" />
     <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect x='8' y='6' width='48' height='52' rx='10' fill='%2307c160'/%3E%3Cpath d='M20 22h24M20 32h24M20 42h16' stroke='white' stroke-width='5' stroke-linecap='round'/%3E%3C/svg%3E" />
@@ -692,7 +692,7 @@ export const blogHomeHtml = `<!doctype html>
       <section id="appView" class="app-dimmed">
         <header id="topbar" class="card topbar hidden-when-modal">
           <div>
-            <h1 class="topbar-title">我的笔记</h1>
+            <h1 class="topbar-title">蜗牛的加密笔记</h1>
             <div class="topbar-subtitle">端到端加密 · 本地解锁 · 本地搜索</div>
           </div>
           <div class="topbar-actions">
